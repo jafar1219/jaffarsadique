@@ -12,8 +12,4 @@ public class Oddreven {
 			 	
 			} else {
 				System.out.println(number+"is odd");	
-			}
-		
-		} 
-
-}
+			}}}
